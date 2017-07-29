@@ -24,7 +24,7 @@ In this repo, you'll find all of the curriculum for career development, includin
 * [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
 
 ### Deliverables
-Career development deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their delvierables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+Career development deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their deliverables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
 
 ### Who Does What
 Your career development team consists of:
